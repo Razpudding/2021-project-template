@@ -29,7 +29,7 @@
 | [Twente](https://www.wikidata.org/wiki/Q1455944) |
 | [Cape Town](https://www.wikidata.org/wiki/Q5465) |
 
-## Datasets
+## Data
 
 | Name     | URL        | Location
 |:---------|:-----------|:-----------------
