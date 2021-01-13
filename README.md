@@ -31,6 +31,12 @@
 
 ## Data
 
+<!-- TODO: -->
+<!-- Do we link to separate pages, one per dataset/data source -->
+<!-- Is there one page for all data? And does the table below link to sections,
+for example [data source 1](data.md#source1)? -->
+<!-- However, if there's always one data.md per topic, do we need this section at all????  -->
+
 | Name     | URL        | Location
 |:---------|:-----------|:-----------------
 | 1        |            |
