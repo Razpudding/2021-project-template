@@ -37,8 +37,8 @@
 for example [data source 1](data.md#source1)? -->
 <!-- However, if there's always one data.md per topic, do we need this section at all????  -->
 
-| Name     | URL        | Location
-|:---------|:-----------|:-----------------
+| Name     | URL        |
+|:---------|:-----------|
 | 1        |            |
 | 2        |            |
 
