@@ -37,11 +37,18 @@
 for example [data source 1](data.md#source1)? -->
 <!-- However, if there's always one data.md per topic, do we need this section at all????  -->
 
-| Name     | URL        | Location
-|:---------|:-----------|:-----------------
+| Name     | URL        |
+|:---------|:-----------|
 | 1        |            |
 | 2        |            |
 
-## Final result
+## Final results
 
-<!-- Include a short description about what you've made, your approach, and how you've used the datasets listed above. And, most importantly, include a link to your work. Important: only include one link in this section! -->
+<!-- Include a short description about what you've made, your approach, and how you've used the datasets listed above. -->
+
+<!-- In the table below, add links to an online version of your project, and =, if available, to its documentation and source code: -->
+| Results
+|:------------------------------------------|
+| [Project](https://...)                    |
+| [Documentation](https://...)              |
+| [Source code](https://github.com/.../...) |
