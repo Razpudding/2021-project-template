@@ -1,40 +1,41 @@
+<!-- You should give this document a good title which describes the topic: -->
 # 2021-topic-template
-<!-- TODO: Uitwerken voor een "echt" project -->
-![Picture of your work](images/<topic>.jpg)
+
+<!-- It's always a good idea to start with an image. For example, you could take a screenshot of your work and place it in the images directory of this repository: -->
+![Picture of your work](images/screenshot.jpg)
 
 ## Topic
-tekstuele beschrijving van topic, met links, referenties, etc.
+
+<!-- In this section, you can describe the topic you and your team have worked on. You can include images, links and everything else supported by the Markdown syntax. Try to make this section not much longer than three or four paragraphs. -->
 
 ## Team
+
 <!-- A brief introduction about your team. Make it playful :) -->
 
-| Name     | URL
-|:---------|:-----------------------------------
-| 1        |[Link to first team member](https://)
-| 2        |[Link to second team member](https://)
+<!-- This section includes a mandatory table that lists the names of all team members and links to their profile pages:  -->
+| Team                                                             |
+|:-----------------------------------------------------------------|
+| [Name of first team member](team/name-of-first-team-member.md)   |
+| [Name of second team member](team/name-of-second-team-member.md) |
 
 ## Locations
 
-<!-- Start with paragraph about why these locations are chosen? -->
-<!-- Each location must have Wikidata link -->
+<!-- Start with a description about why these locations are chosen and why they are important for this topic. -->
 
-| Name
-|:----------------------------------------------
-| [Oaxaca](https://www.wikidata.org/wiki/Q131429)
-| [Twente](https://www.wikidata.org/wiki/Q1455944)
-| [Cape Town](https://www.wikidata.org/wiki/Q5465)
-
+<!-- This section also includes a mandatory table, this table lists each location and links to their Wikidata items: -->
+| Locations                                        |
+|:-------------------------------------------------|
+| [Oaxaca](https://www.wikidata.org/wiki/Q131429)  |
+| [Twente](https://www.wikidata.org/wiki/Q1455944) |
+| [Cape Town](https://www.wikidata.org/wiki/Q5465) |
 
 ## Datasets
 
-| Name     | URL        | Location 
+| Name     | URL        | Location
 |:---------|:-----------|:-----------------
-| 1        |
-| 2        |
-
-<!-- location: (name die ze eerder gebruikt hebben, of nieuwe wikidata-link) -->
+| 1        |            |
+| 2        |            |
 
 ## Final result
-<!-- Short description about what you've made -->
 
-[Link to your work](https://...)
+<!-- Include a short description about what you've made, your approach, and how you've used the datasets listed above. And, most importantly, include a link to your work. Important: only include one link in this section! -->
