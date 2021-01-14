@@ -12,7 +12,7 @@ Fill in information between these brackets[]. You can delete the brackets and th
 [name of location](wikidata link to location)
 - What made you choose this project?
 [Short text]
-- What was your role in your team?
+- What was your role in your group?
 [Short text]
 - What is something you learned during this project about working with data?
 [Text]
