@@ -6,17 +6,17 @@
 
 ## Topic
 
-<!-- In this section, you can describe the topic you and your team have worked on. You can include images, links and everything else supported by the Markdown syntax. Try to make this section not much longer than three or four paragraphs. -->
+<!-- In this section, you can describe the topic you and your group have worked on. You can include images, links and everything else supported by the Markdown syntax. Try to make this section not much longer than three or four paragraphs. -->
 
-## Team
+## Group
 
-<!-- A brief introduction about your team. Make it playful :) -->
+<!-- A brief introduction about your group. Make it playful :) -->
 
-<!-- This section includes a mandatory table that lists the names of all team members and links to their profile pages:  -->
-| Team                                                             |
+<!-- This section includes a mandatory table that lists the names of all group members and links to their profile pages:  -->
+| Group                                                             |
 |:-----------------------------------------------------------------|
-| [Name of first team member](team/name-of-first-team-member.md)   |
-| [Name of second team member](team/name-of-second-team-member.md) |
+| [Name of first group member](group/name-of-first-group-member.md)   |
+| [Name of second group member](group/name-of-second-group-member.md) |
 
 ## Locations
 
