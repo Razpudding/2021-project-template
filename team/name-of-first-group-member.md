@@ -1,5 +1,5 @@
 # [Name]
-Fill in information between these brackets[]. You can delete the brackets and this comments when you are done. We'll use this information for the project website.
+<!-- Fill in information between these brackets[]. You can delete the brackets and this comments when you are done. We'll use this information for the project website. You can update this info whenever you like :) -->
 
 [Short description of yourself]
 
