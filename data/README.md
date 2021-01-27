@@ -6,7 +6,7 @@
 
 <!-- Description of data source. You can include links, images, etc.-->
 
-<!-- TODO: Document each data source used in the project in its own ##[Name of source] section. Keep the list below intact for each data source:  -->
+<!--Document each data source used in the project in its own ##[Name of source] section. Keep the list below intact for each data source:  -->
 <!-- Important:  Only change the information between brackets [] -->
 
   - __URL__: [url]
