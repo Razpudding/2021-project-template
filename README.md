@@ -15,8 +15,8 @@
 [Introduction]
 
 <!-- This section includes a mandatory table that lists the names of all group members and links to their profile pages:  -->
-| Group                                                             |
-|:-----------------------------------------------------------------|
+| Group                                                               |
+|:--------------------------------------------------------------------|
 | [Name of first group member](group/name-of-first-group-member.md)   |
 | [Name of second group member](group/name-of-second-group-member.md) |
 
@@ -26,11 +26,11 @@
 [Description]
 
 <!-- This section also includes a mandatory table, this table lists each location and links to their Wikidata items: -->
-| Locations                                        |
-|:-------------------------------------------------|
+| Locations                                           |
+|:----------------------------------------------------|
 | [Location1](https://www.wikidata.org/wiki/Q131429)  |
 | [Location2](https://www.wikidata.org/wiki/Q1455944) |
-| [LocationX](https://www.wikidata.org/wiki/Q5465) |
+| [LocationX](https://www.wikidata.org/wiki/Q5465)    |
 
 ## Data
 <!-- Here you can give a short description of the sources you've used. You can describe them in more detail on the page dedicated to data in the [data folder](data/README.md). -->
