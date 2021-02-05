@@ -19,6 +19,7 @@ How people managed to do sports during the Corona virus lockdown in Amsterdam.
 | [Leonie](group/Leonie.md)   |
 | [Frank](group/Frank.md) |
 | [Maaike van Cruchten](group/MaaikeVanCruchten.md) |
+| [Laurens](group/Laurens.md) |
 
 ## Locations
 
