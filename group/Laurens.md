@@ -3,7 +3,7 @@
 
 I am a teacher and a programmer working on educational projects.
 
-[Picture of yourself or something else you use to identify yourself like a drawing or an avatar.](images/yourpicture.jpg)
+![Picture of Laurens](Laurens.jpg)
 
 ## About me
 
