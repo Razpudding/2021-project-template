@@ -1,4 +1,4 @@
-# [Name]
+# Laurens
 <!-- Fill in information between these brackets[]. You can delete the brackets and this comments when you are done. We'll use this information for the project website. You can update this info whenever you like :) -->
 
 I am a teacher and a programmer working on educational projects.
